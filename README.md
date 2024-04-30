@@ -4,7 +4,7 @@
 
 ###
 
-<img align="left" height="300" src="https://giffiles.alphacoders.com/141/14163.gif"  />
+<img align="left" height="400" src="https://giffiles.alphacoders.com/141/14163.gif"  />
 
 ###
 
