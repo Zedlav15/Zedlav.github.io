@@ -91,22 +91,22 @@
 <h5 align="left" style="margin-left: 20px;">Contactame en:</h5>
 
 <div align="left" style="margin-left: 20px;">
-  <a href="www.linkedin.com/in/francisco-valdez-zedlav15-8b5776209" target="_blank">
+  <a href="(www.linkedin.com/in/francisco-valdez-zedlav15-8b5776209)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="![.zedlav15](https://www.instagram.com/zedlav.404/)" target="_blank">
+  <a href="(https://www.instagram.com/zedlav.404/)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="frank.cooper823@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="zedlav.404" target="_blank">
+  <a href="(https://www.instagram.com/zedlav.404/)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
   <a href="aaron.stone15@hotmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
-  <a href="![franciscourielv](https://www.facebook.com/franciscourielv/)" target="_blank">
+  <a href="(https://www.facebook.com/franciscourielv/)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
