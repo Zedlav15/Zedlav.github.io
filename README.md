@@ -1,6 +1,5 @@
 # Hola👋, Soy Francisco Valdez
 ## Desarrollador Web y Analista de Datos
-![Desarrollador Web y Analista de Datos]
 
 <div style="background-color:#f4f4f9;">
 <img align="left" height="400" src="https://giffiles.alphacoders.com/141/14163.gif"  />
