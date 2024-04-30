@@ -1,9 +1,3 @@
-<style>
-body {
-    background-color: #f4f4f9; /* Cambia el código de color según tus preferencias */
-}
-</style>
-
 # Hola👋, Soy Francisco Valdez
 ## Desarrollador Web y Analista de Datos
 ![Desarrollador Web y Analista de Datos](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -74,7 +68,7 @@ body {
 
 <h5 align="left">Mis otros conocimientos:</h5>
 
-<div align="left">
+<div align="left" style="background-color:#f4f4f9;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
