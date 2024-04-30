@@ -1,3 +1,9 @@
+<style>
+body {
+    background-color: #f4f4f9; /* Cambia el código de color según tus preferencias */
+}
+</style>
+
 # Hola👋, Soy Francisco Valdez
 ## Desarrollador Web y Analista de Datos
 ![Desarrollador Web y Analista de Datos](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
