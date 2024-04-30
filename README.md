@@ -124,8 +124,7 @@
 
 <h5 align="left" style="margin-left: 20px;">Mis trabajos</h5>
 
-<div align="center">
-  <img src="[![My-Work](https://github-readme-stats.vercel.app/api/pin/?username=zedlav15&repo=My-Work)](https://github.com/zedlav15/My-Work)" />
-</div>
+  [![My-Work](https://github-readme-stats.vercel.app/api/pin/?username=zedlav15&repo=My-Work)](https://github.com/zedlav15/My-Work)
+
 
 </div>
