@@ -1,3 +1,4 @@
+<div style="background-color:#f4f4f9;">
 # Hola👋, Soy Francisco Valdez
 ## Desarrollador Web y Analista de Datos
 ![Desarrollador Web y Analista de Datos](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
@@ -68,7 +69,7 @@
 
 <h5 align="left">Mis otros conocimientos:</h5>
 
-<div align="left" style="background-color:#f4f4f9;">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -120,4 +121,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zedlav15&radius=16&theme=material&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+</div>
+
 </div>
