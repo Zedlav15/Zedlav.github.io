@@ -8,9 +8,9 @@
 
 <br clear="both">
 
-<h5 align="left">Desarrollo web:</h5>
+<h5 align="left" style="margin-left: 20px;">Desarrollo web:</h5>
 
-<div align="left">
+<div align="left" style="margin-left: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -38,9 +38,9 @@
 
 <br clear="both">
 
-<h5 align="left">Analisis en Datos:</h5>
+<h5 align="left" style="margin-left: 20px;">Analisis en Datos:</h5>
 
-<div align="left">
+<div align="left" style="margin-left: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
@@ -66,9 +66,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-<h5 align="left">Mis otros conocimientos:</h5>
+<h5 align="left" style="margin-left: 20px;">Mis otros conocimientos:</h5>
 
-<div align="left">
+<div align="left" style="margin-left: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -88,9 +88,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
-<h5 align="left">Contactame en:</h5>
+<h5 align="left" style="margin-left: 20px;">Contactame en:</h5>
 
-<div align="left">
+<div align="left" style="margin-left: 20px;">
   <a href="www.linkedin.com/in/francisco-valdez-zedlav15-8b5776209" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
