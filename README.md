@@ -8,9 +8,6 @@ Actualmente soy estudiante de la carrera de Ingenieria en datos e inteligencia o
 
 Ya cuento con experiencia laboral en estas dos areas de la cuales he trabajado con entusiasmo y dedicacion
 
-
-Habilidades: VUE JS / REACT / JS / HTML / CSS
-
 - 🔭 Estoy trabajando en Far Fay group 
 - 🌱 Estoy aprendiendo React Js y Next Js 
 - 📫 Cómo contactarme: aaron.stone15@hotmail.com / frank.cooper823@gmail.com 
