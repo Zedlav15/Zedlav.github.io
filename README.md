@@ -91,7 +91,7 @@
 <h5 align="left" style="margin-left: 20px;">Contactame en:</h5>
 
 <div align="left" style="margin-left: 20px;">
-  <a href="www.linkedin.com/in/francisco-valdez-zedlav15-8b5776209" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/francisco-valdez-zedlav15-8b5776209" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/zedlav.404/" target="_blank">
@@ -111,10 +111,10 @@
   </a>
 
   <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/francisco-valdez-zedlav15-8b5776209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/francisco-valdez-zedlav15-8b5776209" height="30" width="40" /></a>
-<a href="https://fb.com/franciscourielv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="franciscourielv" height="30" width="40" /></a>
-<a href="https://instagram.com/zedlav.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zedlav.404" height="30" width="40" /></a>
-</p>
+    <a href="https://linkedin.com/in/www.linkedin.com/in/francisco-valdez-zedlav15-8b5776209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-          generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/francisco-valdez-zedlav15-8b5776209" height="30" width="40" /></a>
+    <a href="https://fb.com/franciscourielv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="franciscourielv" height="30" width="40" /></a>
+    <a href="https://instagram.com/zedlav.404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zedlav.404" height="30" width="40" /></a>
+  </p>
 </div>
 
 <br clear="both">
