@@ -128,7 +128,4 @@
   <img src="[![My-Work](https://github-readme-stats.vercel.app/api/pin/?username=zedlav15&repo=My-Work)](https://github.com/zedlav15/My-Work)" />
 </div>
 
-  <a href="[![My-Work](https://github-readme-stats.vercel.app/api/pin/?username=zedlav15&repo=My-Work)](https://github.com/zedlav15/My-Work)"> <a/>
-  [![My-Work](https://github-readme-stats.vercel.app/api/pin/?username=zedlav15&repo=My-Work&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/zedlav15/My-Work)
-
 </div>
