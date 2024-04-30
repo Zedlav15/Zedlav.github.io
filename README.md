@@ -2,21 +2,13 @@
 ## Desarrollador Web y Analista de Datos
 ![Desarrollador Web y Analista de Datos](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-###
-
 <img align="left" height="400" src="https://giffiles.alphacoders.com/141/14163.gif"  />
 
-###
-
 <h3 align="left" style="margin-left: 20px;">Mi nombre es Francisco Valdez, tengo diferentes apodos, ya sea Franky o Zedlav, pero a fin de cuentas me pueden llamar por mi nombre tal cual, siempre he considerado que el desarrollo web es un arte y compromiso al mismo tiempo. Esa duda sobre como funcionan las paginas web, desde su diseño hasta funcionamiento, es por ello que quise adentrarme en el ambito profesional para aprender más sobre esta bella profesion y estilo de vida.<br><br>Actualmente soy estudiante de la carrera de Ingenieria en datos e inteligencia organizacional, pero ademas soy programador web activo con experiencia en diferentes tecnologias para el desarrollo web.<br><br>Ya cuento con experiencia laboral en estas dos areas de la cuales he trabajado con entusiasmo y dedicacion</h3>
-
-###
 
 <br clear="both">
 
 <h5 align="left">Desarrollo web:</h5>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -44,13 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
 
-###
-
 <br clear="both">
 
 <h5 align="left">Analisis en Datos:</h5>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
@@ -78,11 +66,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
 <h5 align="left">Mis otros conocimientos:</h5>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
@@ -104,11 +88,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
-###
-
 <h5 align="left">Contactame en:</h5>
-
-###
 
 <div align="left">
   <a href="www.linkedin.com/in/francisco-valdez-zedlav15-8b5776209" target="_blank">
@@ -131,8 +111,6 @@
   </a>
 </div>
 
-###
-
 <br clear="both">
 
 <div align="center">
@@ -140,10 +118,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=zedlav15&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=es&hide_border=true&order=1" height="150" alt="stats graph"  />
 </div>
 
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zedlav15&radius=16&theme=material&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
-
-###
