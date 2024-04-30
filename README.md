@@ -1,8 +1,8 @@
-<div style="background-color:#f4f4f9;">
 # Hola👋, Soy Francisco Valdez
 ## Desarrollador Web y Analista de Datos
 ![Desarrollador Web y Analista de Datos](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+<div style="background-color:#f4f4f9;">
 <img align="left" height="400" src="https://giffiles.alphacoders.com/141/14163.gif"  />
 
 <h3 align="left" style="margin-left: 20px;">Mi nombre es Francisco Valdez, tengo diferentes apodos, ya sea Franky o Zedlav, pero a fin de cuentas me pueden llamar por mi nombre tal cual, siempre he considerado que el desarrollo web es un arte y compromiso al mismo tiempo. Esa duda sobre como funcionan las paginas web, desde su diseño hasta funcionamiento, es por ello que quise adentrarme en el ambito profesional para aprender más sobre esta bella profesion y estilo de vida.<br><br>Actualmente soy estudiante de la carrera de Ingenieria en datos e inteligencia organizacional, pero ademas soy programador web activo con experiencia en diferentes tecnologias para el desarrollo web.<br><br>Ya cuento con experiencia laboral en estas dos areas de la cuales he trabajado con entusiasmo y dedicacion</h3>
